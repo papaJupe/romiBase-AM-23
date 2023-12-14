@@ -23,4 +23,5 @@
 hs_err_pid*
 replay_pid*
 build/jni/release/wpimath.pdb
+.gradle/7.5.1/checksums/checksums.lock
 simgui-window.json
